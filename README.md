@@ -5,7 +5,7 @@ A very simple diceware implemented in Nim as an exercise to better understand so
 # Building 
 In order to build the program perform the following steps:
 
-- Clone the repo `git clone https://github.com/HENRDS/nish.git`
+- Clone the repo `git clone https://github.com/HENRDS/diceware.git`
 - Install [Nim](https://nim-lang.org) 
 - At the root of the repo execute:
 
